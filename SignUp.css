@@ -1,0 +1,59 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #000;
+}
+#signup1, #signup2, #login1, #login2, .login, .signup{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background: none;
+}
+#login1{
+    margin-left: 110px;
+}
+#login2{
+    margin-left: 100px;
+}
+.signup, .login{
+    background-color: green;
+    margin-left: 120px;
+}
+#signupdiv{
+    width: 400px;
+    height: 595px;
+    background-color: rgb(228, 228, 228);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border: none;
+}
+#logindiv{
+    width: 400px;
+    height: 285px;
+    background-color: rgb(228, 228, 228);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border: none;
+}
+input{
+    width: 380px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    outline: none;
+}
+p{
+    text-align: center;
+}
+hr{
+    width: 135px;
+}
+#google{
+    margin-left: 37px;
+}
